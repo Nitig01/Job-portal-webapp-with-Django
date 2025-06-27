@@ -4,7 +4,6 @@
 The **Job Portal App** is a web-based application that allows users to browse, apply for jobs, and manage their profiles. Users can register, update their details, and apply for jobs. Employers can post job listings, and users can view job details and apply to those that fit their qualifications.
 
 ## Features
-
 - **User Registration & Authentication**
   - Users can sign up, log in, and log out.
   - Profile management: Users can update personal information, upload a profile image, and change contact details.
